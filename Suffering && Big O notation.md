@@ -20,4 +20,5 @@ and can be used to describe the execution time required or the space used (e.g. 
  input data set has little effect on its growth as after a single iteration of the algorithm the data set will be halved and therefore on a par with an 
  input data set half the size. This makes algorithms like binary search extremely efficient when dealing with large data sets.
  
+ 
  [](https://i.ytimg.com/vi/dCY56qkZKdA/hqdefault.jpg)
