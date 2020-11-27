@@ -1,4 +1,4 @@
-## Hello everyone .. Today we will learn something beautiful and new in our course 401 .. Please have fun 
+## Hello everyone .. Today we will learn something beautiful and new in our course 401 :fire: :fire: .. Please have fun :blush: :sunglasses: :heart_eyes:
 
 # Pain && Suffering : 
 Over the next 10 weeks of this course, you’ll learn far more than most people learn in 2 years of study in a University setting about software development, 
