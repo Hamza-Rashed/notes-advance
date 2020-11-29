@@ -15,7 +15,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |**Title**| 
 |---      |
 |[Suffering && Big O notation](https://hamza-rashed.github.io/reading-notes-401/Suffering%20&&%20Big%20O%20notation)|
-|[Read: Class 2](class-02)|
+|[TDD with Python && Recursion](https://hamza-rashed.github.io/reading-notes-401/TDD%20with%20Python%20&&%20Recursion )|
 |[Read: Class 3](class-03)|
 |[Read: Class 4](class-04)|
 |[Read: Class 5](class-05)|
