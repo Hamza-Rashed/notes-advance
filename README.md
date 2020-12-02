@@ -18,7 +18,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |[TDD with Python && Recursion](https://hamza-rashed.github.io/reading-notes-401/TDD%20with%20Python%20&&%20Recursion)|
 |[Files Python && Excpitions](https://hamza-rashed.github.io/reading-notes-401/Files%20Python%20&&%20Excpitions)|
 |[class&&objects](https://hamza-rashed.github.io/reading-notes-401/class&&objects)|
-|[Read: Class 5](class-05)|
+|[Linked Lists](https://hamza-rashed.github.io/reading-notes-401/Linked%20Lists)|
 |[Read: Class 6](class-06)|
 |[Read: Class 7](class-07)|
 |[Read: Class 8](class-08)|
