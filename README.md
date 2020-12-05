@@ -19,7 +19,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |[Files Python && Excpitions](https://hamza-rashed.github.io/reading-notes-401/Files%20Python%20&&%20Excpitions)|
 |[class&&objects](https://hamza-rashed.github.io/reading-notes-401/class&&objects)|
 |[Linked Lists](https://hamza-rashed.github.io/reading-notes-401/Linked%20Lists)|
-|[Read: Class 6](class-06)|
+|[Modules in python && Risk Analysis](https://hamza-rashed.github.io/reading-notes-401/modules%20&&%20Risk%20Analysis)|
 |[Read: Class 7](class-07)|
 |[Read: Class 8](class-08)|
 |[Read: Class 9](class-09)|
