@@ -10,13 +10,13 @@ Returns a list based on existing iterables.
 
 > [expression(variable) for variable in input_set [predicate][, …]]
 
-** expression **
+* expression 
     Optional. An output expression producing members of the new set from members of the input set that satisfy the predicate expression.
-** variable **
+* variable 
     Required. Variable representing members of an input set.
-** input_set **
+* input_set 
     Required. Represents the input set.
-** predicate **
+* predicate 
     Optional. Expression acting as a filter on members of the input set.
 [, …]]
     Optional. Another nested comprehension.
