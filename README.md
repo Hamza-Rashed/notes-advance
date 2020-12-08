@@ -22,7 +22,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |[Modules in python && Risk Analysis](https://hamza-rashed.github.io/reading-notes-401/modules%20&&%20Risk%20Analysis)|
 |[Read: Class 7](class-07)|
 |[Read: Class 8](class-08)|
-|[Read: Class 9](class-09)|
+|[Dunder Methods && Probability](https://hamza-rashed.github.io/reading-notes-401/Dunder%20Methods%20&%20Statistics%20-%20Probability)|
 |[Read: Class 10](class-10)|
 |[Read: Class 11](class-11)|
 |[Read: Class 12](class-12)|
