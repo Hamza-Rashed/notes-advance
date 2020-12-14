@@ -1,4 +1,4 @@
-
+## Hello everyone .. Today we will learn something beautiful and new in our course 401 :fire: :fire: .. Please have fun :blush: :sunglasses: :heart_eyes:
 
 # Panda ::
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
