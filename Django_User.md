@@ -1,3 +1,4 @@
+## Hello everyone .. Today we will learn something beautiful and new in our course 401 :fire: :fire: .. Please have fun :blush: :sunglasses: :heart_eyes:
 
 # Django Custum User Model 
 Django ships with a built-in User model for authentication and if you'd like a basic tutorial on how to implement log in, log out, sign up and so on see the Django Login and Logout tutorial for more.
@@ -14,15 +15,7 @@ To start, create a new Django project from the command line. We need to do sever
 * make a new Django project called config
 * make a new app accounts
 * start the local web server
-* Here are the commands to run:
 
-$ cd ~/Desktop
-$ mkdir accounts && cd accounts
-$ pipenv install django~=3.1.0
-$ pipenv shell
-$ django-admin.py startproject config .
-$ python manage.py startapp accounts
-$ python manage.py runserver
 Note that we did not run migrate to configure our database. It's important to wait until after we've created our new custom user model before doing so.
 
 # AbstractUser vs AbstractBaseUser
