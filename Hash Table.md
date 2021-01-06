@@ -1,3 +1,4 @@
+## Hello everyone .. Today we will learn something beautiful and new in our course 401 :fire: :fire: .. Please have fun :blush: :sunglasses: :heart_eyes:
 
 # What is a Hashtable?
 Terminology:
